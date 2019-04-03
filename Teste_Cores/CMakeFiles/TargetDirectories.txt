@@ -1,0 +1,3 @@
+/home/matheus/Documentos/ReconhecimentoContainers/Teste_Cores/CMakeFiles/edit_cache.dir
+/home/matheus/Documentos/ReconhecimentoContainers/Teste_Cores/CMakeFiles/rebuild_cache.dir
+/home/matheus/Documentos/ReconhecimentoContainers/Teste_Cores/CMakeFiles/Executable.dir
