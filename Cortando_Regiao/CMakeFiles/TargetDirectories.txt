@@ -1,0 +1,3 @@
+/home/matheus/Documentos/ReconhecimentoContainers_SEMEAR_Open2019/Cortando_Regiao/CMakeFiles/edit_cache.dir
+/home/matheus/Documentos/ReconhecimentoContainers_SEMEAR_Open2019/Cortando_Regiao/CMakeFiles/rebuild_cache.dir
+/home/matheus/Documentos/ReconhecimentoContainers_SEMEAR_Open2019/Cortando_Regiao/CMakeFiles/Executable.dir
